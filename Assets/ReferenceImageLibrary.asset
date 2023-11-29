@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5069665543488364100
+  m_GuidHigh: 14872967481452696982
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5391699471056859176
+      m_GuidHigh: 795771968420120981
+    m_SerializedTextureGuid:
+      m_GuidLow: 393115515101470195
+      m_GuidHigh: 7934316865756301241
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Rock
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5475269029069439251
+      m_GuidHigh: 4491579878761881755
+    m_SerializedTextureGuid:
+      m_GuidLow: 5189311791264743781
+      m_GuidHigh: 4714301041521241354
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Paper
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5235293694077315694
+      m_GuidHigh: 3735456413670365834
+    m_SerializedTextureGuid:
+      m_GuidLow: 13935519035520050062
+      m_GuidHigh: 15170240181509359816
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Scissors
+    m_Texture: {fileID: 0}
